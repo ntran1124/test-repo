@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T19:07:15.003Z" agent="5.0 (Windows)" etag="yPqI-Q4MC4JMOgksGf9t" version="14.2.9" type="github"><diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">7Vptj6I6FP41flwDFBA+rs7O3pvsbCZ3NzsfTYWKjYWaUkfn/vo9hQpYnFkzo6AbSdRyeujLec5z2h4coEm6/SrwavHAY8IGjhVvB+hu4Di2awXwoyQvpcQPw1KQCBprpVrwg/5PtNDS0jWNSb6nKDlnkq72hRHPMhLJPRkWgm/21eac7fe6wglpCX5EmLWlTzSWCy21Lauu+IfQZKG7DjxdMcPRMhF8nen+Bg6aF1dZneJdW1o/X+CYbxoi9GWAJoJzWZbS7YQwZdud2crn7l+prcYtSCaPecAPSTQn88iLXJu4TvTJ1sjl8mVnDBKDbfRtxjP4GRczJKoNC+4WMmVQtKHI8IywcWWECWdc1I+RLP6s0KkluRR8WdkYpj+e80ze45Qy5Tq/iIhxhrVY+4kanzlLPfGcr0VEXpuadiQsEiJf0UGljppyo2Ftu6+Ep0SKF1AQhGFJn/fdBWuvSyq92vJQ0MY/FoiyzWfM1mTnSwYwNC3c+Aj7126IxvqpO5omMChGZ/AdMbqaYiGhmBG54WJJM1X7RGGiJM+n//G1JGJqO8EWPsMV1Da9QHVdubJyiYinNNLlwxj/GcxnIiTZvgmDrnVHmk463Li+V95vavIGWmXRpK11BuCcFnD/ZmA7sGsPAE4YX8fngU2P9ZHnVFKegTAiaqJQoZCjEE2/GQqSr6AWM5ocVP+sK2ZcSp5CxRlcA9am/lzDDv/a4IqOCK7OxQRX1OLoPUS6DVZPdc7RXddd0VSUXv4qS1Max2r2FVEZmcsDNK30zkBTJ+yRpm7LO37iGesqfgO4K7XY5lCmj/hM0fvjkHnWPmQjq0fIvBZkj5Pu4XrgGZVcTH/yzeVulmxvHze/zxXRb+MmaLEt6Bw83fG1wOb2CdvoIuj2BEtoLrFati4VtREyyDbqEbWghdoDn1GAqxPkJJwkwfjpOoNNRLHVUOvbAraqlwpeYKxwntcjeGELvG94pQ5UndPuO5EzzpcfQa0xAqu4DuNJGWto3hfXgQ2uuj/U4ilcwDaibp+bnN1Y/g4fOCdzkWPsTe0+YTsildcAyvD6SXEdYo4fBPYYQU0icExJzQF9/N+J7+B8GemzXcaFmv8BCACtlRpMuk1UTn+oj6j5UMXsKaPZcloe3D+SkTgq//AOQr+ZmtB7zDdTE7qdP6YmGv5TvQxoOlAlPDqHoft45LD7bDiwsfSg0PDMcsb6qdo5Ww25RkOO2VBpllZDhZdXE3+n47dToTfHf5fjF3raaAfe8RzDAu8aWWCEcTewh6Hne449QqGNLO+dnDCSTZ4VDC0XuaPA8a3AD41mz8mQdiLyxpAOl4bdtuC6WGGcKd3wNKwIDFbYvbGinYC9saJDVrjXSArXjOmnIUVoNOv0Rop2ivtGig5JMbpGUnhmSD8JKcw3Px7qjRTt9wc3UnRIiuAaSeGbIf00pDAyhZ7bGynab2dupOiQFOE1ksI8EqPTkMI4wHveeUgBt/V/Zkv1+o/J6Mtv</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-31T19:28:34.857Z" agent="5.0 (Windows)" etag="vjzlrxuGzvrE0_dBtg7V" version="14.2.9" type="github">
+  <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
+    <mxGraphModel dx="1422" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="69ecfefc5c41e42c-18" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" target="69ecfefc5c41e42c-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="425" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-2" value="Internet" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Cloud_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+          <mxGeometry x="500" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-19" style="edgeStyle=none;rounded=0;html=1;labelBackgroundColor=none;endArrow=none;strokeWidth=2;fontFamily=Verdana;fontSize=22" parent="1" source="69ecfefc5c41e42c-3" target="69ecfefc5c41e42c-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="69ecfefc5c41e42c-3" value="Firewall" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Firewall_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=22;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="500" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caP4LYc1G3uuhNq84tDV-1" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Receptionist:&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;D4=&amp;gt;P: 20.104 (Ext. 100)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;D5=&amp;gt;C: 5.101 (WiFi: .5.128)&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Workstation_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caP4LYc1G3uuhNq84tDV-4" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;PM:&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;D18=&amp;gt;P: 20.100 (Ext. 101)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;D18s=&amp;gt;C: 5.102&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;HL-5470W: .5.201 (WiFi?) (USB used currently)&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Workstation_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caP4LYc1G3uuhNq84tDV-5" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Dr.:&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;D23=&amp;gt;P: 20.109 (Ext. 108)&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;D23s=&amp;gt;C: 5.103&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;D24=&amp;gt;HL-5470W: .5.203 (manually)&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Workstation_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="820" y="100" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caP4LYc1G3uuhNq84tDV-6" value="&lt;div style=&quot;font-size: 16px&quot;&gt;Nurse:&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;D28=&amp;gt;P: 20.103 (Ext. 103)&lt;/div&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;D28s=&amp;gt;C: 5.108&lt;/div&gt;" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Workstation_128x128.png;rounded=1;shadow=0;comic=0;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="820" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caP4LYc1G3uuhNq84tDV-8" value="&lt;div&gt;9810DW: .5.200 (WiFi ?)&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caP4LYc1G3uuhNq84tDV-9" value="&lt;div&gt;HL-5470W: .5.202 (WiFi)&lt;/div&gt;&lt;div&gt;- .5.220 (Wired)&lt;br&gt;&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Print_Server_128x128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="700" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caP4LYc1G3uuhNq84tDV-10" value="Server: .5.10" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
